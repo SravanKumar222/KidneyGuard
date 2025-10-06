@@ -25,4 +25,4 @@ An AI-based web application that predicts the likelihood of Chronic Kidney Disea
 
 ---
 
-## 🧩 Folder Structure
+
