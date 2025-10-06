@@ -1,0 +1,6 @@
+Flask: The latest stable version was Flask==2.0.
+Pandas: The latest stable version was Pandas==1.3.3.
+NumPy: The latest stable version was NumPy==1.21.2.
+Seaborn: The latest stable version was Seaborn==0.11.2.
+Matplotlib: The latest stable version was Matplotlib==3.4.3.
+scikit-learn (sklearn): The latest stable version was scikit-learn==0.24.2.
